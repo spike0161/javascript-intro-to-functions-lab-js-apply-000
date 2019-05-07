@@ -30,7 +30,7 @@ mixedCase.toLowerCase() === mixedCase // false
 mixedCase.toUpperCase() === mixedCase // false
 
 function sayHiToGrandma(string) {
-  return string.toLowerCase()
+  return ("I can\'t hear you!").toLowerCase()
 }
 
 function sayHiToGrandma(string) {
