@@ -33,11 +33,11 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  if(string.toUpperCase === true){
-    return("Yes indeed!")
-  }
+   return("Yes indeed!")  
   
 }
+  
+
 
 // function sayHiToGrandma(string) {
 //   if(string === "I love you Grandma"){
