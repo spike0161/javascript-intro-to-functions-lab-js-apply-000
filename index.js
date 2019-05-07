@@ -45,9 +45,9 @@ function sayHiToGrandma(string) {
 
 
 
-var isNumberEqualOne = function(){
-    if(num == 1){
-      return true;
-    }
-    return false;
-}();
+// var isNumberEqualOne = function(){
+//     if(num == 1){
+//       return true;
+//     }
+//     return false;
+// }();
