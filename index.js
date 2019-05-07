@@ -37,6 +37,10 @@ function sayHiToGrandma(string) {
    return("Yes indeed!").toUpperCase()  
   
 }
+
+function sayHiToGrandma(string) {
+  return "I love you too"
+}
   
 
 
