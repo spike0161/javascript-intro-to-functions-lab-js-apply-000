@@ -29,6 +29,25 @@ mixedCase.toLowerCase() === mixedCase // false
 mixedCase.toUpperCase() === mixedCase // false
 
 function sayHiToGrandma(string) {
-  return("I can\'t hear you!")
+  if(string === string.toLowerCase){
+    return("I can\'t hear you!")
+  }
+  
 }
 
+
+
+
+
+
+
+
+
+
+
+var isNumberEqualOne = function(){
+    if(num == 1){
+      return true;
+    }
+    return false;
+}();
