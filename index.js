@@ -34,7 +34,7 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-   return("Yes indeed!").toUpperCase()  
+   return("I can\'t hear you!").toUpperCase()  
   
 }
 
